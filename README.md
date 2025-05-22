@@ -94,7 +94,7 @@ Because it’s fun to make your printer kick your prints off the bed like a boss
 ## 📷 Screenshots or Demo
 
 Link To Demo Video 
-**[Demo Video link](https://youtube.com/@Andrews3dfactory)** 
+**[Demo Video link](https://www.youtube.com/watch?v=v64aOb2rB20&feature=youtu.be)** 
 
 ---
 
