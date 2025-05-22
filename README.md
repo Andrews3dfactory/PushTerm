@@ -55,12 +55,10 @@ PushTerm/
    - Confirm how many copies to eject
 
 5. The modified file will be saved in the same folder as:
+      the orginal file 
+      the name of fie: yourPrintFileName_modified.gcode
 
-   ```
-   Ploter_modified.gcode
-   ```
-
----
+```
 
 ## ⚙️ What It Does
 
