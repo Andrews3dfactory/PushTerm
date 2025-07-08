@@ -2,6 +2,10 @@
 
 PushTerm is a Python-based command-line tool designed to streamline your 3D printing experience using your terminal. It provides a clean, simple terminal interface and lets you launch customizable commands, scripts, or tools with ease. This command is a tool for auto print farms; most auto print farms take too long, and sometimes don't work. The PushTerm allows you to customize speed and is more efficient for producing quality prints.
 
+⚠️ Legal Notice
+PushTerm v1 (this version) is released free and open-source under the MIT License and is not covered by any patents. You are free to use, modify, and distribute this version.
+Future versions of PushTerm may include proprietary logic and features that are patent-pending and protected. Only this original version (v1) is free for commercial and non-commercial use.
+
 ## 🚀 Features
 
 - Lightweight and fast
