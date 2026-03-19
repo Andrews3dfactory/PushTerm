@@ -53,31 +53,42 @@ Donations will be added soon if you want to support the project 🙌
 
 ## 📦 Installation
 
-PushTerm is available on PyPI. You can install it using pip:
+PushTerm is available on PyPI:
 
 ```bash
 pip install pushterm
 ```
-Or just use the Zip File you can pick i prefer the zip file cause its up to date
+
+Or download the **Zip file** (recommended for latest version).
+
 ---
 
-## 🧪 How to Use 
-   **1. Download or clone** this project folder.
-   Put your G-code file (e.g., `Ploter.gcode`) inside the `MyPrints` folder.
-   Double-click or run this from the terminal:
+## 🧪 How to Use
 
+1. **Download or clone** this project folder.  
+   Place your G-code file (e.g., `Ploter.gcode`) inside the `MyPrints` folder.
+
+2. Run the launcher from the terminal:
+
+```bash
 python launcher.py
-4. When the terminal opens, follow the steps:
+```
+
+3. In the terminal:
    - Type: `cd MyPrints`
    - Then: `begin`
-   - Enter your file name: `Ploter.gcode`
-   - Set the delay like `m5` for 5 minutes or `s30` for 30 seconds
+   - Enter your file name (e.g., `Ploter.gcode`)
+   - Set the delay:
+     - `m5` → 5 minutes
+     - `s30` → 30 seconds
    - Confirm how many copies to eject
 
-5. The modified file will be saved in the same folder as:
-      the orginal file 
-      the name of fie: yourPrintFileName_modified.gcode
-   
+4. The modified file will be saved in the same folder as the original file with the name:
+
+```
+yourPrintFileName_modified.gcode
+```
+
 ---
 
 ## ⚙️ What It Does
@@ -87,10 +98,12 @@ python launcher.py
 - Pushes finished prints off the bed  
 - Keeps safe nozzle height
 
+---
+
 ## ✅ Requirements
-   - Python 3.x installed
-   - No extra dependencies
-   - just basic Python and a terminal
+
+- Python 3.x installed  
+- No extra dependencies — just basic Python and a terminal
 
 ---
 
@@ -110,25 +123,25 @@ PushTerm/
 
 - Test G-code before real use  
 - Works best on flat beds  
-- Optimized for Bambu Lab (adaptable)  
+- Optimized for Bambu Lab (adaptable)
 
 ---
 
 ## 🎥 Demo
 
-https://www.youtube.com/watch?v=v64aOb2rB20&feature=youtu.be  
+https://www.youtube.com/watch?v=v64aOb2rB20&feature=youtu.be
 
 ---
 
 ## 🧠 Why This Exists
 
-Because your printer should finish a job and immediately start the next one like a machine 😤  
+Because your printer should finish a job and immediately start the next one like a machine 😤
 
 ---
 
 ## 📄 License
 
-MIT License  
+MIT License
 
 ---
 
