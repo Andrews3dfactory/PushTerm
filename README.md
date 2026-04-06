@@ -16,25 +16,31 @@
 
 ---
 
-## 📢 Update (03/19/2026)
+## 📢 Update (04/06/2026)
 
-PushTerm is being **fully rebuilt from scratch**.
+PushTerm V2 is progressing—**the UI design is now complete**, and the **File Tab is functional**!
 
 ### ⚡ New Direction
-- Web-connected printer control (no SD card)
-- Cleaner, easier UI
-- More reliable automation
-- Fully rewritten backend
-
+- Web-connected printer control (no SD card)  
+- Cleaner, easier-to-use UI  
+- More reliable automation  
+- Fully rewritten backend  
 *(Yes… partly because my SD card slot is broken 😅)*
 
+### ⚡ What’s New
+- Full **UI design finalized**: dark, futuristic, space-style theme  
+- **File Tab working**: generate and modify G-code directly in the app, like the terminal  
+- Main layout finalized for terminal, queue, and placeholders for drag-and-drop and animations  
+- **Note:** UI is functional for File Tab only; other interactive features still in development  
+- Can do everything the Terminal Version can now  
+
 ### 💸 Cost
-**100% FREE — forever**
-- No paid features
-- No locked tools
+**100% FREE — forever**  
+- No paid features  
+- No locked tools  
 
 ### ⏳ Status
-In development — updates coming soon.
+File Tab working — full printer integration coming next  
 
 ### ❤️ Support
 Donations will be added soon if you want to support the project 🙌
